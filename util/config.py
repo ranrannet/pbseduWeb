@@ -1,6 +1,7 @@
 # coding: utf-8
 
 
+HOST_ADDRESS ="http://7fresh.m.jd.com/"
 API_ADDRESS = "http://api2.pbsedu.com/"
 API_KEY = "a0f7127a018342a38d00937af0355c25"
 USER_ID = 10006161
